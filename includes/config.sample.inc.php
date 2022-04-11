@@ -72,7 +72,7 @@ $config = array(
 
   // You can ignore settings below this point.
 
-  'maxkeylen'           => 100,
+  'maxkeylen'           => 255,
   'count_elements_page' => 100,
 
   // Use the old KEYS command instead of SCAN to fetch all keys.
@@ -82,4 +82,4 @@ $config = array(
   'scansize' => 1000
 );
 
-?>
+// #end php code

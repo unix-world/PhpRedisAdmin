@@ -1,2 +1,0 @@
-# PhpRedisAdmin
-PHP Redis Admin
